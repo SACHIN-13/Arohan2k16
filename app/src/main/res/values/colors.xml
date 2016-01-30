@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="magenda">#fc7370</color>
+    <color name="colorPrimary">#e62117</color>
+    <color name="back">#999999</color>
+    <color name="text">#000000</color>
+    <color name="colorPrimaryDark">#fc7370</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tabsScrollColor">#8a140e</color>
+</resources>
